@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏿
+
+My name's Hope and I'm a Software Engineer in User Experience and Design Systems.
+
+🔭 I’m currently working on [Cityblock's Design System](https://commonplace.design/), leading efforts to mature design patterns and automate accessibility.
+
+
+📫 How to see what I do
+- [Open-Source Software Engineering Projects](https://github.com/hopetambala)
+- [Design Engineering Portfolio](https://www.hopetambala.com/)
 
 <!--
 **hopetambala/hopetambala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
