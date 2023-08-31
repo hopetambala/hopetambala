@@ -2,7 +2,9 @@
 
 My name's Hope and I'm a Software Engineer in User Experience and Design Systems.
 
-🔭 I’m currently working on [Cityblock's Design System](https://commonplace.design/), leading efforts to mature design patterns and automate accessibility.
+🔭 I was an active maintainer of [Cityblock's Design System](https://commonplace.design/), leading efforts to mature design patterns and automate accessibility.
+
+I'm currently a software engineer on [Ety's](https://www.etsy.com/) design systems team, Collage.
 
 
 📫 How to see what I do
