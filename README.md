@@ -2,7 +2,7 @@
 
 My name's Hope and I'm a Software Engineer in User Experience and Design Systems.
 
-I'm currently a software engineer on [Ety's](https://www.etsy.com/) design systems team, Collage.
+I'm currently a software engineer @ [Etsy](https://www.etsy.com/), where I work on their design system, Collage.
 
 🔭 I was an active maintainer of [Cityblock's Design System](https://commonplace.design/), leading efforts to mature design patterns and create software for frontend-enablement.
 
