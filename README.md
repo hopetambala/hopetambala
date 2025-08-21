@@ -2,7 +2,7 @@
 
 My name's Hope and I'm a Software Engineer in User Experience and Design Systems.
 
-I'm currently a software engineer @[Etsy](https://www.etsy.com/), where I work on their design system, Collage. I'm the technical co-founder @[Puente](https://www.puente-dr.org/), a tech nonprofit where I created and currently manage [Collect](https://apps.apple.com/be/app/puente-collect/id1362371696), an iOS and android data collection application.
+I'm currently a software engineer at [Etsy](https://www.etsy.com/), where I work on their design system, Collage. I'm also the technical co-founder of [Puente](https://www.puente-dr.org/), a tech nonprofit where I created and currently manage [Collect](https://apps.apple.com/be/app/puente-collect/id1362371696), an iOS and android data collection application.
 
 🔭 I was an active maintainer of [Cityblock's Design System](https://commonplace.design/), leading efforts to mature design patterns and create software for frontend-enablement.
 
