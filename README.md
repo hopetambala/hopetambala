@@ -1,10 +1,8 @@
 ### Hi there 👋🏿
 
-My name's Hope and I'm a Software Engineer in User Experience and Design Systems.
+[Check me out here 🚀 ](https://hopetambala.com/)
 
-I'm currently a software engineer at [Etsy](https://www.etsy.com/), where I work on their design system, Collage. I'm also the technical co-founder of [Puente](https://www.puente-dr.org/), a tech nonprofit where I created and currently manage [Collect](https://apps.apple.com/be/app/puente-collect/id1362371696), an iOS and android data collection application.
-
-🔭 I was an active maintainer of [Cityblock's Design System](https://commonplace.design/), leading efforts to mature design patterns and create software for frontend-enablement.
+I'm currently a software engineer at [Etsy](https://www.etsy.com/), where I work on their design system, Collage. I'm also the technical co-founder of [Puente](https://www.puente-dr.org/), a tech nonprofit where I created and currently manage [Collect](https://apps.apple.com/be/app/puente-collect/id1362371696), an iOS and android data collection application and [Manage](https://puente-manage.vercel.app/) a data analysis and management platform
 
 📫 How to see what I do
 - [Open-Source Software Engineering Projects](https://github.com/hopetambala)
